@@ -1,0 +1,34 @@
+{
+  "id": "688a7a258b0519cc3818ab74",
+  "title": "Superpower AI",
+  "description": "A comprehensive course on understanding and developing Superpower AI",
+  "learningObjectives": [
+    "Understand the concept of Superpower AI",
+    "Learn about different algorithms and models used in Superpower AI",
+    "Apply Superpower AI to solve real-world problems",
+    "Design and develop a Superpower AI project"
+  ],
+  "finalProjectDetails": {
+    "overview": "A project where students will implement their Superpower AI learning to solve a real-world problem",
+    "planningResources": [
+      "Project plan template",
+      "Superpower AI project examples",
+      "Superpower AI project checklist"
+    ],
+    "submissionInstructions": "Submit your project as a pdf report and a link to the code on Github. The report should include problem definition, how you solved it using Superpower AI and the results. Github link should contain the project's code",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/1992tw/superpower-ai",
+  "createdAt": "2025-07-30T20:01:41.598Z",
+  "updatedAt": "2025-07-30T20:01:41.598Z",
+  "lessonCount": 4
+}
